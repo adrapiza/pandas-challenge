@@ -1,0 +1,14 @@
+﻿Alexa Drapiza
+
+
+Written Report
+
+
+        Based on the data given, there are a total of 15 schools in the district. Within the district there are 39,170 students in the district and the total budget computed was $24,649,428.00. 
+With the district’s average math score being 78.985, 74.9% of the students passed math. In reading, the average reading score is 81.878 with 85.8% of the students passing. The overall passing percentage of the students within the district is 65%. From the two data files given and along with the summary per school, we are able to break down the data.  The sections created are: Highest-Performing Schools (by % Overall Passing), Bottom Performing Schools (By % Overall Passing), Math Score by Grade, Reading Score by Grade, Scores by School Spending, Scores by School Size and Scores by School Type. From this, we are able to look at different questions such as: Does investing more money mean higher scores? Does school size matter? Are some schools better than other schools in other areas? 
+
+
+Based on the sections Highest Performing school and Bottom Performing Scores - an assumption may be the higher the budget and the student budget, the higher the passing math and reading scores. Comparing the two sections calculated, the statement the higher the budget, higher the passing percentage is false. The schools had a much higher budget than the top 5 schools. The percentage of overall passing for the bottom 5 schools was 53.5% at highest and the rest being 52%-53%. Whereas the top 5 highest schools had overall passing percentage of 90%-91%.
+
+
+According to the section Scores by School Size, based on the size of the school - the total school budget is much higher. Schools that were in the bottom performance scores, with a higher budget, are also the schools with the highest school size (large with 2000 - 5000 students. Compared to the high performance schools where their school size is medium which consists of only 1000-2000 students with a lower budget compared to the bottom performing schools. We can conclude that size does matter on how well students can perform if they are able to get the support they need based on their environment.
